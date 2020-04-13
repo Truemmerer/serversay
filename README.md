@@ -1,4 +1,4 @@
-# Minetest-Mod: Minetest Rules
+# Minetest-Mod: ServerSay
 Github: https://github.com/Truemmerer/serversay
 
 ## Command and Privilege:
