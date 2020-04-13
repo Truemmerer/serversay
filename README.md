@@ -1,14 +1,8 @@
 # Minetest-Mod: Minetest Rules
-Github: https://github.com/Truemmerer/minetest_rules
+Github: https://github.com/Truemmerer/serversay
 
-## English:
+## Command and Privilege:
+**Privilege:** *serversay*
+**Command:**   */ssay <message>*   
 
-**/rules**
-
-## German:
-**/regeln**
-
-
-## How to change the Rules?
-
-You can change the Rules in the *init.lua* file.
+You can change the Color in the *init.lua* file.
